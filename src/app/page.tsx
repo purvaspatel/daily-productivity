@@ -1,5 +1,6 @@
 'use client'
 import { useEffect } from "react";
+import Image from 'next/image';
 
 declare global {
   interface Window {
@@ -78,7 +79,8 @@ function scheduleNotifications() {
 
 export default function Home() {
   useEffect(() => {
-    
+    // Call the scheduleNotifications function to fix the unused variable error
+    scheduleNotifications();
 
     // Cleanup function to clear all intervals when component unmounts
     return () => {
@@ -91,16 +93,18 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-screen bg-gray-100 p-4 font-inter overflow-hidden">
       <div className="w-full text-center">
-        <h1 className="text-4xl font-bold mb-5 mt-20">The Only Notifications You'll Actually Love</h1>
+        <h1 className="text-4xl font-bold mb-5 mt-20">The Only Notifications You&apos;ll Actually Love</h1>
         <p className="text-xl">
           Stay healthy, hydrated and productive with mindful reminders throughout your workday
         </p>
         <p className="mt-5 text-2xl"><i>Enable the notifications and keep this tab open!</i></p>
 
         <div className="mb-8">
-          <img
-            src="main.svg"
+          <Image
+            src="/main.svg"
             alt="Person working at desk with a lamp"
+            width={500}
+            height={300}
             className="mx-auto mix-blend-darken"
           />
         </div>
