@@ -78,7 +78,7 @@ function scheduleNotifications() {
 
 export default function Home() {
   useEffect(() => {
-    const cleanup = scheduleNotifications();
+    
 
     // Cleanup function to clear all intervals when component unmounts
     return () => {
