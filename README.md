@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+![image](https://github.com/user-attachments/assets/9e1d2d3b-1132-4885-850e-e94721dcc675)
 
-## Getting Started
+# ⏳ Productivity Reminder – Stay Healthy While You Work! 🚀  
+Latest Version: https://daily-productivity.vercel.app/
+## 🌟 About  
 
-First, run the development server:
+During my internship as a **Software Engineer**, I realized how often we forget to take essential breaks—whether it's relaxing our eyes, stretching, or staying hydrated. These small habits significantly impact **productivity, health, and overall well-being**.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Some may call breaks an excuse to avoid hard work, but ever since I built this **notification reminder**, I have consistently:  
+✅ Drunk **2-3 liters of water daily**  
+✅ Taken **10-12 short breaks** to relax my eyes, stretch, and refresh  
+✅ Felt **more energetic and focused** throughout the day  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This tool ensures you **never forget** to take care of yourself while working!  
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🔥 Features  
 
-## Learn More
+🚀 **Just load the website, minimize it, and start working**—notifications will take care of the rest!  
 
-To learn more about Next.js, take a look at the following resources:
+🔔 **Reminders are set as follows:**  
+🟢 **Every 20 minutes** – Relax your eyes 👀  
+💧 **Every 45 minutes** – Drink water 💦  
+🧘 **Every 40 minutes** – Stretch break 🤸  
+🌿 **Every 60 minutes** – Take a break & refresh 🌞  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Upcoming Features  
 
-## Deploy on Vercel
+✨ **Full control over notifications & customizations**  
+⏸ **Pause & Play functionality**  
+💡 **Inspiring quotes in notifications**  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📌 Why Use This?  
+
+✔️ **Boost focus & productivity**  
+✔️ **Improve posture & reduce eye strain**  
+✔️ **Stay hydrated & feel refreshed**  
+✔️ **Avoid burnout & work smarter**  
+
+Start prioritizing your health while working! 💻💙  
+
+---
+
+## 🔗 Contribute 
+Clone this repository to make changes or contribute here!  
+
+
+
+
