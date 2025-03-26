@@ -47,6 +47,7 @@ export default function RootLayout({
         <meta name="author" content="Purva@VisionNxt" />
         <meta name="theme-color" content="#007bff" />
         <link rel="canonical" href="https://daily-productivity.vercel.app/" />
+         <script src="https://easyanalytics-flax.vercel.app/track.js" defer></script>
       </head>
       <body className={inter.className}>
         {children}
